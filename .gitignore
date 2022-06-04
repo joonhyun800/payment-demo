@@ -1,0 +1,40 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+.idea
+.mvn
+# BlueJ files
+*.ctxt
+target/
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+将删除 .idea/.gitignore
+将删除 .idea/compiler.xml
+将删除 .idea/encodings.xml
+将删除 .idea/libraries/
+将删除 .idea/misc.xml
+将删除 .idea/modules.xml
+将删除 .idea/vcs.xml
+将删除 payment-demo.iml
+将删除 target/classes/application.yml
+将删除 target/classes/com/wjh/payment/mapper/xml/
+将删除 target/generated-sources/
+将删除 target/generated-test-sources/
+将删除 target/maven-status/
