@@ -2,7 +2,8 @@
 ### Java template
 # Compiled class file
 *.class
-
+mvnw
+mvnw.cmd
 # Log file
 *.log
 .idea
