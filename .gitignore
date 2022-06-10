@@ -2,13 +2,9 @@
 ### Java template
 # Compiled class file
 *.class
-mvnw
-mvnw.cmd
 # Log file
-*.iml
 *.log
-.idea
-.mvn
+
 # BlueJ files
 *.ctxt
 target/
